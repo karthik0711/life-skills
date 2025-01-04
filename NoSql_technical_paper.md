@@ -1,4 +1,4 @@
-# NoSql Technical papper
+# NoSql Technical paper
 
 # Introduction to NoSQL Databases
 
