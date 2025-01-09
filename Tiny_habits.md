@@ -42,7 +42,7 @@ To make a habit easier:
 - Start small (just do 1 push-up or read 1 page) instead of doing in single day we can improve our habbit slowly.  
 - Remove obstacles (like planning meals in advance).
 
-### Question 7:  
+
 **How to make a habit harder to do?**  
 To stop a habit, make it harder to do:  
 - Hide triggers (like keeping junk food out of sight).  
