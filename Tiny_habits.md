@@ -2,15 +2,14 @@
 
 
 ## 1. Tiny Habits - BJ Fogg
-
-### Question 1:  
+ 
 **What was the most interesting story or idea for you?**  
 The interesting idea in this video is how to start small, like flossing one tooth or doing two push-ups, can help build habits. Small steps were easy and can grow into big changes over time.
 
 
 ## 2. Tiny Habits by BJ Fogg - Core Message
 
-### Question 2:  
+
 **How can you use B = MAP to make making new habits easier? What are M, A, and P?**  
 The formula **B = MAP** means:  
 - **Behavior (B):** What we do.  
@@ -18,27 +17,25 @@ The formula **B = MAP** means:
 - **Ability (A):** How  much easy it was to do.  
 - **Prompt (P):** A reminder for doing it.  
 
-
-### Question 3:  
+ 
 **Why is it important to "Shine" or celebrate after each successful completion of a habit?**  
 Celebrating after doing a habit help us feel better. This make our brain want to repeat the particular habits. Feeling happy when we succeed is important to make the habit .
 
 
 
 ## 3. 1% Better Every Day Video
-
-### Question 4:  
+  
 **What was the most interesting story or idea for you?**  
 The best idea is getting **1% better every day.** small small improvements can help add up to big results over time. For example, focusing on small changes helped many successful people achieve their goals.
 
 
 ## 4. Book Summary of Atomic Habits
 
-### Question 5:  
+
 **What is the book's perspective about Identity?**  
 The book says that our identity is important. Instead of saying, "I want to lose weight," say, "I am a healthy person." If our habits match who we want to be, they’ll last longer.
 
-### Question 6:  
+
 **How to make a habit easier to do?**  
 To make a habit easier:  
 - Firstly Make things simple (like putting your workout clothes near the bed).  
@@ -56,7 +53,6 @@ To stop a habit, make it harder to do:
 
 ## 5. Reflection
 
-### Question 8:  
 **Pick one habit that you would like to do more of. What are the steps to make it easy and attractive?**  
 ***Habit:*** Reading every day.  
 - Make it easy to see (put the book on your pillow).  
@@ -65,7 +61,7 @@ To stop a habit, make it harder to do:
 - Reward yourself (have tea after reading).
 - Take 5 min break for every 25 minutes.
 
-### Question 9:  
+
 **Pick one habit that you would like to eliminate or do less of. What are the steps to make it harder or less attractive?**  
 Habit: Spending too much time on watching reels in social media.  
 - Hide it (turn off notifications, remove apps from the home screen).  
